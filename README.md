@@ -72,7 +72,7 @@ Key insights were drawn using:
 How to Run
 
  On Google Colab
-- Open the notebook: `credit_card_fraud_detection.ipynb`
+- Open the notebook: `Grow_Link_Data_Science_Assignment.ipynb`
 - Upload the dataset or use Kaggle API
 - Run all cells and explore outputs
 
